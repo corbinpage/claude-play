@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "mcp__Claude_in_Chrome__list_connected_browsers"
+      "mcp__Claude_in_Chrome__list_connected_browsers",
+      "mcp__3d4e3f79-836d-4c07-ac88-7e5dcc17c266__cart"
     ]
   }
 }
